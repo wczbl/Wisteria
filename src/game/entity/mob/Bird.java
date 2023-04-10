@@ -27,7 +27,6 @@ public class Bird extends Mob {
 		this.yTarget = 0;
 		this.angleInc = 10;
 		this.health = 20;
-		this.team = ETeam.ENEMY;
 	}
 	
 	public void tick() {
