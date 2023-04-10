@@ -20,7 +20,8 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Weather system</li>
 <li>Improved item system</li>
 <li>Inventory</li>
-<li>Better fog
+<li>Better fog</li>
+<li>Minimap</li>
 
 <h2>Next Update</h2>
 The new bird enemy type!
