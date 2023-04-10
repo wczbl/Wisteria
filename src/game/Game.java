@@ -124,6 +124,13 @@ public class Game extends Rasterizer implements Runnable {
 		Font.draw("FPS: " + fps + " OBJ: " + this.level.getEntities().size(), this.screen, 10, 10, PaletteHelper.getColor(-1, 111, 111, 555));
 		Font.draw("SCORE: " + this.player.getScore() + " HP: " + this.player.getHealth(), this.screen, 10, 20, PaletteHelper.getColor(-1, 111, 111, 555));
 		
+		if(this.player.isRemoved()) {
+			String text = "GAME OVER";
+			Font.draw(text, this.screen, (Game.WIDTH - text.length() * 8) / 2, Game.HEIGHT / 3, PaletteHelper.getColor(555, 111, 111, 115));
+			text = "Press SPACE to Restart";
+			Font.draw(text, this.screen, (Game.WIDTH - text.length() * 8) / 2, Game.HEIGHT / 2, PaletteHelper.getColor(555, 111, 111, 115));
+		}
+		
 		super.render(fps);
 	}
 	
