@@ -108,4 +108,6 @@ public class Bird extends Mob {
 	}
 	
 	public boolean blocks(Entity e) { return false; }
+	
+	public boolean ignoreBlocks() { return true; }
 }
