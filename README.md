@@ -3,7 +3,7 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 
 <h1>Features</h1>
 <li>Fog map</li>
-<li>Enemies(Slime spawner, they don't attack though, and slime)</li>
+<li>Enemies(Slime spawner and slime)</li>
 <li>Debug-related things</li>
 <li>Death screen</li>
 <li>Pickups</li>
