@@ -12,7 +12,7 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Auto-tiling</li>
 
 <h1>Planned Features</h1>
-<li>Maps, seasons too</li>
+<li>Maps(seasonable ones?)</li>
 <li>Dialogue system</li>
 <li>Sound effects</li>
 <li>Menu screen</li>
