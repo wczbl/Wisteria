@@ -9,11 +9,11 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Pickups</li>
 <li>Movement and shooting</li>
 <li>Mushrooms(they generate coins)</li>
+<li>Auto-tiling</li>
 
 <h1>Planned Features</h1>
 <li>Maps, seasons too</li>
 <li>Dialogue system</li>
-<li>Auto-tiling</li>
 <li>Sound effects</li>
 <li>Menu screen</li>
 <li>Weather system</li>
@@ -21,3 +21,4 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Inventory</li>
 <li>Better fog</li>
 <li>Minimap</li>
+<li>Sound effects</li>
