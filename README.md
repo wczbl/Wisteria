@@ -3,7 +3,7 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 
 <h1>Features</h1>
 <li>Fog map</li>
-<li>Enemies(Slime spawner, they don't attack though, and slime)</li>
+<li>Enemies(Slime spawner, bird, and slime)</li>
 <li>Debug-related things</li>
 <li>Death screen</li>
 <li>Pickups</li>
@@ -11,7 +11,7 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Mushrooms(they generate coins)</li>
 
 <h1>Planned Features</h1>
-<li>New enemy type, bird</li>
+
 <li>Maps, seasons too</li>
 <li>Dialogue system</li>
 <li>Auto-tiling</li>
