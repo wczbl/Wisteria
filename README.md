@@ -24,4 +24,4 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Sound effects</li>
 
 <b>Make sure to navigate through branches to find the latest versions of this project!</b>
-Version 1.0 is going public very soon. Stay tuned!
+<p>Version 1.0 is going public very soon. Stay tuned!</p>
