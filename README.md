@@ -11,9 +11,7 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Mushrooms(they generate coins)</li>
 <li>Auto-tiling</li>
 <li>Dialogue system</li>
-
-<h1>Planned Features</h1>
-<li>Maps(maps with seasons??)</li>
+<li>Maps</li>
 <li>Sound effects</li>
 <li>Menu screen</li>
 <li>Weather system</li>
@@ -23,5 +21,8 @@ Wisteria is a simple 2D top down RTS game where you play as a hero. Throughout t
 <li>Minimap</li>
 <li>Sound effects</li>
 
-<b>Make sure to navigate through branches to find the latest versions of this project!</b>
-<p>Version 1.0 is going public very soon. Stay tuned!</p>
+<h1>Planned Features</h1>
+<li>New enemy type, bandit</li>
+<li>Multiplayer(UDP, planned)</li>
+<li>More weapons, shoes, and armors</li>
+<li>More maps</li>
