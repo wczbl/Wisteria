@@ -99,7 +99,7 @@ public class InputHandler implements KeyListener, MouseListener, MouseMotionList
 		if(e.getKeyCode() == KeyEvent.VK_A || e.getKeyCode() == KeyEvent.VK_NUMPAD4 || e.getKeyCode() == KeyEvent.VK_LEFT) this.left.toggle(pressed);
 		if(e.getKeyCode() == KeyEvent.VK_D || e.getKeyCode() == KeyEvent.VK_NUMPAD6 || e.getKeyCode() == KeyEvent.VK_RIGHT) this.right.toggle(pressed);
 		if(e.getKeyCode() == KeyEvent.VK_Q || e.getKeyCode() == KeyEvent.VK_C) this.appleUse.toggle(pressed);
-		if(e.getKeyCode() == KeyEvent.VK_E || e.getKeyCode() == KeyEvent.VK_V) this.appleUse.toggle(pressed);
+		if(e.getKeyCode() == KeyEvent.VK_E || e.getKeyCode() == KeyEvent.VK_V) this.berryUse.toggle(pressed);
 		if(e.getKeyCode() == KeyEvent.VK_Z) this.sound.toggle(pressed);
 		if(e.getKeyCode() == KeyEvent.VK_ENTER ||  e.getKeyCode() == KeyEvent.VK_SPACE || e.getKeyCode() == KeyEvent.VK_CONTROL || e.getKeyCode() == KeyEvent.VK_NUMPAD0 || e.getKeyCode() ==  KeyEvent.VK_INSERT) this.action.toggle(pressed);
 		if(e.getKeyCode() == KeyEvent.VK_P || e.getKeyCode() == KeyEvent.VK_PAUSE || e.getKeyCode() == KeyEvent.VK_ESCAPE) this.pauseMenu.toggle(pressed);
