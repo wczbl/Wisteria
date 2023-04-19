@@ -78,5 +78,6 @@ public class NPC extends Mob {
 	public boolean blocks(Entity e) { return true; }
 	public boolean canRegenerate() { return true; }
 	public boolean canAttack() { return true; }
+	public boolean canSwim() { return true; }
 	
 }
